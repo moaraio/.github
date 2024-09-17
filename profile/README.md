@@ -1,4 +1,4 @@
-# Welcome to Moara.io 🌟
+# Welcome to Moara.io
 
 **Moara.io** is where researchers unite to spark ideas, discover knowledge, and manage academic literature with ease. We're building the ultimate research platform to help you streamline your academic journey—from sourcing papers to writing reviews and everything in between.
 
