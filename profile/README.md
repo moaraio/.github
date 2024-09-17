@@ -12,6 +12,4 @@ The name “Moara” stands for Mother of All Research Assistants and comes from
 
 ## Let's Collaborate! 🤝
 
-We’re always looking for talented contributors to join us on our mission! Whether you're a seasoned developer, a passionate researcher, or just someone with cool ideas, we’d love to hear from you.
-
-**What are you waiting for?** Hop on board, and let's change the world together! 🌍
+We’re always looking for talented contributors to join us on our mission! Whether you're a seasoned developer, a passionate researcher, or just someone with cool ideas, we’d love to hear from you. Feel free to contact Seth (seth@moara.io).
